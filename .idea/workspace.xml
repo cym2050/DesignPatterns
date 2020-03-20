@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12373f89-8b60-4c92-9014-6f0c971ec713" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/cym2050/strategy/Comparable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cym2050/strategy/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cym2050/strategy/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cym2050/strategy/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cym2050/strategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cym2050/strategy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cym2050/strategy/Sorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cym2050/strategy/Sorter.java" afterDir="false" />
-    </list>
+    <list default="true" id="12373f89-8b60-4c92-9014-6f0c971ec713" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +109,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -135,22 +130,22 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1584686828798" />
-    <state width="1237" height="111" key="GridCell.Tab.0.bottom" timestamp="1584688382553">
+    <state width="1237" height="111" key="GridCell.Tab.0.bottom" timestamp="1584696913357">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="111" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1584688382553" />
-    <state width="1237" height="111" key="GridCell.Tab.0.center" timestamp="1584688382553">
+    <state width="1237" height="111" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1584696913357" />
+    <state width="1237" height="111" key="GridCell.Tab.0.center" timestamp="1584696913356">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="111" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1584688382553" />
-    <state width="1237" height="111" key="GridCell.Tab.0.left" timestamp="1584688382553">
+    <state width="1237" height="111" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1584696913356" />
+    <state width="1237" height="111" key="GridCell.Tab.0.left" timestamp="1584696913356">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="111" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1584688382553" />
-    <state width="1237" height="111" key="GridCell.Tab.0.right" timestamp="1584688382553">
+    <state width="1237" height="111" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1584696913356" />
+    <state width="1237" height="111" key="GridCell.Tab.0.right" timestamp="1584696913357">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="111" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1584688382553" />
+    <state width="1237" height="111" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1584696913357" />
     <state x="337" y="173" key="com.intellij.ide.util.TipDialog" timestamp="1584685848909">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
