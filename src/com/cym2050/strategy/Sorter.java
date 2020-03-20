@@ -1,4 +1,4 @@
-package com.cym2050.dp.strategy;
+package com.cym2050.strategy;
 
 public class Sorter {
 
@@ -7,7 +7,7 @@ public class Sorter {
             int minPos = i;
 
             for(int j=i+1; j<arr.length; j++) {
-                minPos = arr[j] < arr[minPos] ? j : minPos;
+                minPos = arr[j].compareTo(arr[minPos]) == -1  ? j : minPos;
             }
 
             //System.out.println("minPos:" + minPos);
@@ -19,8 +19,8 @@ public class Sorter {
         }
     }
 
-    static void swap(int[] arr, int i, int j) {
-        int temp = arr[i];
+    static void swap(Cat[] arr, int i, int j) {
+        Cat temp = arr[i];
         arr[i] = arr[j];
         arr[j] = temp;
     }

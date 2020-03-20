@@ -1,4 +1,4 @@
-package com.cym2050.dp.strategy;
+package com.cym2050.strategy;
 
 public class Cat implements Comparable<Cat> {
     int weight, height;
@@ -9,7 +9,6 @@ public class Cat implements Comparable<Cat> {
     }
 
     public int compareTo(Cat c) {
-
         if(this.weight < c.weight) return -1;
         else if(this.weight > c.weight) return 1;
         else return 0;
