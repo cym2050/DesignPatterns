@@ -1,8 +1,8 @@
 package com.cym2050.strategy;
 
-public class Sorter {
+public class Sorter{
 
-    public static void sort(Cat[] arr) {
+    public static void sort(Comparable[] arr) {
         for(int i=0; i<arr.length - 1; i++) {
             int minPos = i;
 
@@ -19,8 +19,8 @@ public class Sorter {
         }
     }
 
-    static void swap(Cat[] arr, int i, int j) {
-        Cat temp = arr[i];
+    static void swap(Comparable[] arr, int i, int j) {
+        Comparable  temp = arr[i];
         arr[i] = arr[j];
         arr[j] = temp;
     }

@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12373f89-8b60-4c92-9014-6f0c971ec713" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/cym2050/strategy/Comparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cym2050/strategy/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cym2050/dp/strategy/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cym2050/strategy/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cym2050/dp/strategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cym2050/strategy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cym2050/dp/strategy/Sorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cym2050/strategy/Sorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cym2050/strategy/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cym2050/strategy/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cym2050/strategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cym2050/strategy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cym2050/strategy/Sorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cym2050/strategy/Sorter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -101,49 +104,60 @@
       <option name="presentableId" value="Default" />
       <updated>1584619584193</updated>
       <workItem from="1584619599175" duration="5124000" />
-      <workItem from="1584662491231" duration="1406000" />
+      <workItem from="1584662491231" duration="3742000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="233" y="7" key="#Notifications" timestamp="1584624870301">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="233" y="7" key="#Notifications/0.0.1280.689@0.0.1280.689" timestamp="1584624870301" />
-    <state x="401" y="51" key="#com.intellij.ide.util.MemberChooser" timestamp="1584628143478">
+    <state x="401" y="51" key="#com.intellij.ide.util.MemberChooser" timestamp="1584688361068">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="401" y="51" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1584628143478" />
+    <state x="401" y="51" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1584688361068" />
     <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1584686828798">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1584686828798" />
-    <state width="1237" height="111" key="GridCell.Tab.0.bottom" timestamp="1584686780909">
+    <state width="1237" height="111" key="GridCell.Tab.0.bottom" timestamp="1584688382553">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="111" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1584686780909" />
-    <state width="1237" height="111" key="GridCell.Tab.0.center" timestamp="1584686780908">
+    <state width="1237" height="111" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1584688382553" />
+    <state width="1237" height="111" key="GridCell.Tab.0.center" timestamp="1584688382553">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="111" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1584686780908" />
-    <state width="1237" height="111" key="GridCell.Tab.0.left" timestamp="1584686780908">
+    <state width="1237" height="111" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1584688382553" />
+    <state width="1237" height="111" key="GridCell.Tab.0.left" timestamp="1584688382553">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="111" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1584686780908" />
-    <state width="1237" height="111" key="GridCell.Tab.0.right" timestamp="1584686780908">
+    <state width="1237" height="111" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1584688382553" />
+    <state width="1237" height="111" key="GridCell.Tab.0.right" timestamp="1584688382553">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="111" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1584686780908" />
+    <state width="1237" height="111" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1584688382553" />
     <state x="337" y="173" key="com.intellij.ide.util.TipDialog" timestamp="1584685848909">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="337" y="173" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1584685848909" />
-    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1584621086571">
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1584687774126">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1584621086571" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1584687774126" />
   </component>
 </project>
