@@ -10,7 +10,7 @@ public class Main {
         Sorter sorter = new Sorter();
         //sorter.sort(dogs, new DogComparator());       //狗策略
         //sorter.sort(cats, new CatWeightComparator()); //猫体重策略
-        sorter.sort(cats, new CatHeightComparator());   //猫身高策略
+        sorter.sort(cats, new CatHeightComparator());   //猫身高策略 
         System.out.println(Arrays.toString(cats));
     }
 }
